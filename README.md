@@ -20,3 +20,9 @@
 
 
 # ChromHMM
+### Emissions
+![emissions_10](https://user-images.githubusercontent.com/93247992/160437901-b12b2e1b-b493-4737-b769-b2e2fb976939.png)
+
+
+### Transitions
+![transitions_10](https://user-images.githubusercontent.com/93247992/160437923-a8bd3786-8519-4295-b88f-7998093f7814.png)
