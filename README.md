@@ -17,3 +17,6 @@
 | H3k79me2 | H3k79me2.bam |
 | H3k9ac  | H3k9ac.bam         |
 | H3k9me1 | H3k9me1.bam |
+
+
+# ChromHMM
