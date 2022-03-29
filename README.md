@@ -76,17 +76,17 @@
 ![Снимок экрана (223)](https://user-images.githubusercontent.com/93247992/160594165-f3e85d1f-777b-4d79-b417-47f49201b533.png)
 Слабый сигнал, состояние не характерно ни для одной гистоновой метки.
 
-| State      | Модификация       | Эпигенетический тип |
+| State      | Модификация       | Эпигенетический тип | 
 | ------------- |------------------:| ------------|
-| 1      | H3K27m3       | Э |
-| 2 | H2A.Z | -|
-| 3      | -      | Э |
-| 4 | CTCF | -|
-| 5      | H2A.Z       | Э |
-| 6 | H2A.Z, H3K9ac, H3K27ac, Pol2 | -|
-| 7      | H3K9ac, H3K27ac, H3K79m2 | Э |
-| 8 | H3K79m2 | -|
-| 9      | H3K79m2       | Э |
-| 10 | - | -|
+| 1      | H3K27m3       | poised Promoter |
+| 2 | H2A.Z |  Heterochromatin |
+| 3      | -      | Heterochromatin |
+| 4 | CTCF | Insulator |
+| 5      | H2A.Z       | Weak enhancer |
+| 6 | H2A.Z, H3K9ac, H3K27ac, Pol2 | Active Promoter |
+| 7      | H3K9ac, H3K27ac, H3K79m2 |  Strong enhancer |
+| 8 | H3K79m2 | Weak transcribed |
+| 9      | H3K79m2       | Transcriptional elongation |
+| 10 | - |  Transcriptional elongation\Weak transcribed |
 
 # Дополнительное задание
