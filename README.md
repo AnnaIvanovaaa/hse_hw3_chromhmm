@@ -93,5 +93,5 @@
 Несколько примеров, нового получившегося файла 
 ![Снимок экрана (231)](https://user-images.githubusercontent.com/93247992/160666854-615b96f9-36e3-4e2d-bbf1-91c5beb48b4b.png)
 ![Снимок экрана (229)](https://user-images.githubusercontent.com/93247992/160666909-000380e8-b94c-46ad-9ef9-e97bb85194b4.png)
-[ссылка] (https://colab.research.google.com/drive/1RN4-4pbOS_a6-IWwcUcKjMmJpfzDWRpK?usp=sharing)
+[ссылка](https://colab.research.google.com/drive/1RN4-4pbOS_a6-IWwcUcKjMmJpfzDWRpK?usp=sharing)
 
