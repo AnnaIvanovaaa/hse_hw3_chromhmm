@@ -32,7 +32,8 @@
 
 #### State 1
 ![Снимок экрана (217)](https://user-images.githubusercontent.com/93247992/160592623-ba50c656-02e6-4c16-a525-137b6e38bd04.png)
-
+![Снимок экрана (224)](https://user-images.githubusercontent.com/93247992/160594442-15ceadf9-cd19-4745-9eb7-99630ae641cc.png)
+Слабые сигналы, есть небольшие пики на метке H3K27m3.
 
 #### State 2
 ![Снимок экрана (218)](https://user-images.githubusercontent.com/93247992/160589977-94de6dd5-4d2e-4cc6-bd70-ac4fc839adb5.png)
@@ -69,4 +70,7 @@
 #### State 9
 ![Снимок экрана (222)](https://user-images.githubusercontent.com/93247992/160593047-640d55fc-fa8e-4e04-b3e4-f1767e73fd7a.png)
 Сильный сигнал характерен для метки H3K79m2, на всех остальных он или практически отсутвует, или средний.
+
 #### State 10
+![Снимок экрана (223)](https://user-images.githubusercontent.com/93247992/160594165-f3e85d1f-777b-4d79-b417-47f49201b533.png)
+Слабый сигнал, состояние не характерно ни для одной гистоновой метки.
